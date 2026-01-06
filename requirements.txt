@@ -1,1 +1,21 @@
+# Core NLP & Deep Learning Libraries
+torch
+transformers
+datasets
+accelerate
 
+# Fine-Tuning & Quantization (LoRA & 4-bit)
+peft
+bitsandbytes
+
+# Evaluation Metrics
+evaluate
+rouge_score
+
+# Data Handling
+numpy
+pandas
+
+# Code Quality (Required for "Clean Code" points)
+black
+ruff
